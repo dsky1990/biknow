@@ -1,7 +1,7 @@
 {
   "name": "biknow",
   "version": "1.0.0",
-  "description": "A Vue.js project",
+  "description": "reconstruction biknow project",
   "author": "dsky1990 <dutian1990@gmail.com>",
   "private": true,
   "scripts": {
